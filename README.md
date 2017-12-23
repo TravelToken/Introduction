@@ -1,2 +1,2 @@
-# Benny
-ERC20 Coin-Trip Coin-ICO Project
+# TravelToken
+ERC20 Coin-TravelToken-ICO Project
